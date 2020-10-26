@@ -23,7 +23,7 @@ export default class extends Component {
                 </div>
 
                 <main>
-                    <Link href="tel:">
+                    <Link href="tel:8358144">
                         <a>
                             <SimpleCard 
                                 image="/images/hotels/la-cascada.jpeg"
@@ -32,7 +32,7 @@ export default class extends Component {
                         </a>
                     </Link>
 
-                    <Link href="tel:">
+                    <Link href="tel:3214684428">
                         <a>
                             <SimpleCard 
                                 image="/images/hotels/gran-hotel.jpeg"
@@ -41,7 +41,7 @@ export default class extends Component {
                         </a>
                     </Link>
 
-                    <Link href="tel:">
+                    <Link href="tel:3507327303">
                         <a>
                             <SimpleCard 
                                 image="images/hotels/jireh.jpeg"
@@ -50,7 +50,7 @@ export default class extends Component {
                         </a>
                     </Link>
 
-                    <Link href="tel:3116413712">
+                    <Link href="tel:3507327303">
                         <a>
                             <SimpleCard 
                                 image="images/hotels/alcatraz.jpeg"
