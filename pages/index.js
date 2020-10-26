@@ -130,6 +130,15 @@ export default class extends Component {
                                 />
                             </a>
                         </Link>
+
+                        <Link href="/hoteles">
+                            <a>
+                                <SimpleCard 
+                                    image="images/hotels/default.jpg"
+                                    text="Hospédate en San Carlos"
+                                />
+                            </a>
+                        </Link>
     
                         <Link href="/lugares">
                             <a>

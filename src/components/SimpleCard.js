@@ -18,6 +18,7 @@ const SimpleCard = ({ image, text }) => {
                     position: relative;
                     transition: .4s;
                     overflow: hidden;
+                    margin: 1rem 0;
                 }
 
                 .simpleCard:hover {
