@@ -38,7 +38,7 @@ const FactsPage = ({ hiddeFact }) => {
                     <p>{fact}</p>
                 </div>
 
-                <p id="developed-by">Terminado de desarrollar el 31/08/2020 (5 horas) por Diego Cardona<br /><br />Imágen por <a href="https://www.instagram.com/vive_sancarlos/">@vive_sancarlos</a></p>
+                <p>Imágen por <a href="https://www.instagram.com/vive_sancarlos/">@vive_sancarlos</a></p>
             </div>
 
             <style jsx global>{`
